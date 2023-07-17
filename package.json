@@ -1,0 +1,9 @@
+{
+  "name": "delete-old-attachements",
+  "version": "1.0.0",
+  "description": "This is a Mattermost plugin that deletes old attachments.",
+  "main": "delete-old-attachements.js",
+  "dependencies": {
+    "mattermost-plugin-api": "^5.0.0"
+  }
+}
